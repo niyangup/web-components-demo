@@ -1,2 +1,3 @@
-# web-components-demo
-WebComponents
+# WebComponents
+
+使用WebComponents写的一个counter-demo
